@@ -1,0 +1,20 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "test red personas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "larous25@hotmail.es brian bustos",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.7.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
+  }
+}
